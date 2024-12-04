@@ -14,7 +14,6 @@ import { Container } from "~/components/Container";
 import { Button } from "~/components/ui/button";
 import { router } from "expo-router";
 import { ExpandLeftDouble } from "~/components/assets/ExpandLeftDouble";
-import { Input } from "~/components/ui/input";
 import { BimbinganCard } from "~/components/BimbinganCard";
 import { Entypo, FontAwesome, Ionicons } from "@expo/vector-icons";
 import { BlurView } from "expo-blur";
