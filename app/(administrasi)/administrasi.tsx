@@ -1,6 +1,6 @@
 import { Feather, Ionicons } from "@expo/vector-icons";
 import { router, Stack } from "expo-router";
-import React, { useCallback, useRef } from "react";
+import React from "react";
 import { Image, ScrollView, StyleSheet, View } from "react-native";
 import { Container } from "~/components/Container";
 import { DialogForm } from "~/components/DialogForm";
