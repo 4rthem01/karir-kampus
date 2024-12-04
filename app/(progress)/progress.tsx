@@ -10,7 +10,7 @@ import { router } from "expo-router";
 // import { EmojiProgress } from "~/components/ui/emoji-progress";
 
 export default function ProgressScreen() {
-  const [progress, setProgress] = useState(50);
+  const [progress, setProgress] = useState(49);
   return (
     <Container title="Progress">
       <View>
